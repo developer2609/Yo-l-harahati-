@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/drawable/edit_text.xml" value="0.164" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/drawable/edt.xml" value="0.182" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.164" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/drawable/tab_fon.xml" value="0.182" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/drawable/untab_fon.xml" value="0.182" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/fragment_about.xml" value="0.25" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/fragment_edit.xml" value="0.25" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/fragment_home.xml" value="0.2453125" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/fragment_info.xml" value="0.25" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/fragment_like.xml" value="0.25" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/fragment_view_pager1.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/fragment_view_pager2.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/fragment_view_pager_item.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/fragment_yol_belgisi_list.xml" value="0.2453125" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/fragment_yol_belgisi_qoshish.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/item_layout.xml" value="0.2453125" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/item_tv.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/xodil/AndroidStudioProjects/YolQoidasiApp/app/src/main/res/layout/tab_item.xml" value="0.2453125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
